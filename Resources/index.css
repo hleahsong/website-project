@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+.header {
+    background-color: aquamarine;
+    height: 500px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+.navigation{
+    text-align: center;
+}
+a {
+    padding: 50px;
+}
+footer {
+    background-color: cadetblue;
+    width: auto;
+    height: 350px;
+    text-align: center;
+    position: relative;
+}
+.contactMe {
+    background-color: azure;
+    width: 50vw;
+    height: 200px;
+    position: relative;
+    left: 25%;
+    top: 25%
+}
